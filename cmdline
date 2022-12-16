@@ -1,0 +1,1 @@
+initrd=\intel-ucode.img initrd=\initramfs-linux.img root=UUID=fc01b3f0-4241-4f7e-ba2a-747ace78a307 rw quiet loglevel=0 intel_pstate=no_hwp rootfstype=ext4 
